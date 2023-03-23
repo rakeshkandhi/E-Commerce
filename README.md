@@ -1,1 +1,1 @@
-E-Commerce dataset
+E-Commerce dataset for machine learning
